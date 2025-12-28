@@ -12,9 +12,9 @@ along with the regular stock markers like "Open", "High", "Low", "Close", "Adjus
 "Volume" used across all previous research.
 
 This proposal revolves around the following hypotheses:
-• **Hypothesis 1:** "Introducing multi-dimensional convolutional layers to LSTM architecture
+*  **Hypothesis 1:** "Introducing multi-dimensional convolutional layers to LSTM architecture
 predicts intraday stock price more accurately than traditional LSTM architecture."
-• **Hypothesis 2:** "Our multi-dimensional ConvLSTM network performs better in intraday
+* **Hypothesis 2:** "Our multi-dimensional ConvLSTM network performs better in intraday
 stock trading strategy of using multi-feature setting in Ghosh u. a. (2022) (adopted from
 Krauss u. a. (2017)), providing daily returns greater than that obtained by their LSTM
 networks"
